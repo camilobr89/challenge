@@ -17,4 +17,10 @@ function challengeOne(arr) {
 }
 
 console.log(challengeOne([1, 2, 3, 4, 5, 6])); 
+console.log(challengeOne([ 10, 20, 30, 40])); 
+console.log(challengeOne([6])); 
+console.log(challengeOne([66])); 
+console.log(challengeOne([65])); 
+console.log(challengeOne([2, 6, 1])); 
+console.log(challengeOne([60, 6, 5, 4, 3, 2, 7, 7, 29, 1])); 
 
